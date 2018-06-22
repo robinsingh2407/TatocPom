@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12233" started-at="2018-06-22T08:55:42Z" finished-at="2018-06-22T08:55:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12233" started-at="2018-06-22T08:55:42Z" finished-at="2018-06-22T08:55:55Z">
+      <class name="testngprogram.TatocTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testngprogram.TatocTest@33f88ab]" name="launchBrowser" is-config="true" duration-ms="5931" started-at="2018-06-22T08:55:42Z" finished-at="2018-06-22T08:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="gridGateRed()[pri:0, instance:testngprogram.TatocTest@33f88ab]" name="gridGateRed" duration-ms="170" started-at="2018-06-22T08:55:48Z" finished-at="2018-06-22T08:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gridGateRed -->
+        <test-method status="PASS" signature="gridGateGreen()[pri:1, instance:testngprogram.TatocTest@33f88ab]" name="gridGateGreen" duration-ms="296" started-at="2018-06-22T08:55:48Z" finished-at="2018-06-22T08:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gridGateGreen -->
+        <test-method status="PASS" signature="differentBoxes()[pri:2, instance:testngprogram.TatocTest@33f88ab]" name="differentBoxes" duration-ms="263" started-at="2018-06-22T08:55:49Z" finished-at="2018-06-22T08:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- differentBoxes -->
+        <test-method status="PASS" signature="sameBoxes()[pri:3, instance:testngprogram.TatocTest@33f88ab]" name="sameBoxes" duration-ms="1018" started-at="2018-06-22T08:55:49Z" finished-at="2018-06-22T08:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sameBoxes -->
+        <test-method status="PASS" signature="noDrag()[pri:4, instance:testngprogram.TatocTest@33f88ab]" name="noDrag" duration-ms="137" started-at="2018-06-22T08:55:50Z" finished-at="2018-06-22T08:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noDrag -->
+        <test-method status="PASS" signature="dragCorrect()[pri:5, instance:testngprogram.TatocTest@33f88ab]" name="dragCorrect" duration-ms="401" started-at="2018-06-22T08:55:50Z" finished-at="2018-06-22T08:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragCorrect -->
+        <test-method status="PASS" signature="popUpNotOpen()[pri:6, instance:testngprogram.TatocTest@33f88ab]" name="popUpNotOpen" duration-ms="133" started-at="2018-06-22T08:55:51Z" finished-at="2018-06-22T08:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popUpNotOpen -->
+        <test-method status="PASS" signature="emptySubmitPopUp()[pri:7, instance:testngprogram.TatocTest@33f88ab]" name="emptySubmitPopUp" duration-ms="1419" started-at="2018-06-22T08:55:51Z" finished-at="2018-06-22T08:55:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptySubmitPopUp -->
+        <test-method status="PASS" signature="textSubmitPopUp()[pri:8, instance:testngprogram.TatocTest@33f88ab]" name="textSubmitPopUp" duration-ms="1466" started-at="2018-06-22T08:55:52Z" finished-at="2018-06-22T08:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textSubmitPopUp -->
+        <test-method status="PASS" signature="noTokenGenerateNotAddCookie()[pri:9, instance:testngprogram.TatocTest@33f88ab]" name="noTokenGenerateNotAddCookie" duration-ms="137" started-at="2018-06-22T08:55:54Z" finished-at="2018-06-22T08:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noTokenGenerateNotAddCookie -->
+        <test-method status="PASS" signature="tokenGenerateNotAddCookie()[pri:10, instance:testngprogram.TatocTest@33f88ab]" name="tokenGenerateNotAddCookie" duration-ms="271" started-at="2018-06-22T08:55:54Z" finished-at="2018-06-22T08:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tokenGenerateNotAddCookie -->
+        <test-method status="PASS" signature="tokenGenerateAddWrongCookie()[pri:11, instance:testngprogram.TatocTest@33f88ab]" name="tokenGenerateAddWrongCookie" duration-ms="278" started-at="2018-06-22T08:55:54Z" finished-at="2018-06-22T08:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tokenGenerateAddWrongCookie -->
+        <test-method status="PASS" signature="TokenGenerateAddCorrectCookie()[pri:12, instance:testngprogram.TatocTest@33f88ab]" name="TokenGenerateAddCorrectCookie" duration-ms="267" started-at="2018-06-22T08:55:54Z" finished-at="2018-06-22T08:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TokenGenerateAddCorrectCookie -->
+      </class> <!-- testngprogram.TatocTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
